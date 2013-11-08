@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* Override Hosted Cascading Style Sheets */
+/* Main Style Sheet */
+/* iPhone Media Queries */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
+  
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+  
+}
+/* iPad Media Queries */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  
+}
+/* Desktop Media Queries */
+@media all and (min-width: 1024px) and (min-device-aspect-ratio: 1/1) {
+  
+}
