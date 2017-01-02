@@ -1,21 +1,7 @@
 Tader Boilerplate
 =================
 
-A front-end responsive design made to work in Codekit. I wanted something retardedly simple to maintain.
-The hosted DNS's are an added bonus, let's hope they serve us well...
-
-Haml and Jade are the supported HTML5 mockups. Scss or Less for CSS3 cascade.
-Choose your preferred languages and delete the remaining files.
-
 ![tots](https://media.giphy.com/media/ZuxQUHxE8GGXu/giphy.gif)
-
-
-
-Wiki
-====
-<a href='https://github.com/matrixfox/Tader-Boilerplate/wiki'>Getting Started</a>
-
-
 
 Copyright
 =========
