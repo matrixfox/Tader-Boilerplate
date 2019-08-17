@@ -5,3 +5,16 @@
 @import 'reset';
 
 @import 'main';
+
+/* iPhone Media Queries */
+@import "iphone" only screen and (min-device-width: 320px) and (max-device-width: 480px);
+@import "iphone-portrait" only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait);
+@import "iphone-landscape" only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape);
+
+/* iPad Media Queries */
+@import "ipad" only screen and (min-device-width: 768px) and (max-device-width: 1024px);
+@import "ipad-portrait" only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait);
+@import "ipad-landscape" only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape);
+
+/* Desktop Media Queries */
+@import "desktop" all and (min-width: 1024px) and (min-device-aspect-ratio: 1/1);
